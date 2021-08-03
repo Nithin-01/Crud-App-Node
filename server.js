@@ -40,6 +40,3 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
     console.log("server is listening on port 3000");
 })
-
-//Require Notes routes
-// require('./app/routes/notes.routes.js')
